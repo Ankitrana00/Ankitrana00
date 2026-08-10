@@ -1,5 +1,5 @@
 # 💫 About Me:
-Entry-level Full-Stack Developer (graduating July 2026) with hands-on experience shipping production-ready web applications using React, JavaScript, Node.js, and PostgreSQL. Skilled in building real-time systems with WebSocket messaging, OAuth 2.0 authentication, and CI/CD deployment via Docker and Vercel.
+Full-Stack Developer  with hands-on experience shipping production-ready web applications using React, JavaScript, Node.js, and PostgreSQL. Skilled in building real-time systems with WebSocket messaging, OAuth 2.0 authentication, and CI/CD deployment via Docker and Vercel.
 
 
 ## 🌐 Socials:
